@@ -3,14 +3,14 @@
 <table>
   <tr>
     <td align="center" valign="top" width="45">
-      <img width="550" height="700" alt="image" src="https://github.com/user-attachments/assets/772581ef-e9db-4356-9fa2-49287b7c2eef" alt="Character Artwork" />
+      <img width="550" height="700" alt="TOP" src="https://github.com/user-attachments/assets/772581ef-e9db-4356-9fa2-49287b7c2eef" alt="Character Artwork" />
     </td>
     
 <td align="left" valign="top" width="55%">
     <img width="1199" height="333" alt="LOWKTEST" src="https://github.com/user-attachments/assets/c213d9c7-d8cd-472b-822a-fb6bb3837ffb" />
        <div style="border: 1px solid #30363d; border-radius: 6px; padding: 20px; background-color: #161b22;">
 
-ㅤ $\color{Yellow}\large{\textbf{ɴᴇᴇᴏ . ɪꜱᴀᴀᴄ . ɪᴄᴀʀᴜꜱ . ᴄᴀɴᴀʀʏ}}$ㅤ<img width="20" height="20" alt="PLEASEBEGS" src="https://github.com/user-attachments/assets/d2f6f8a5-3606-4ff2-a748-ceb2d73dd306" /> $\color{Yellow}\large{\textbf{ʜᴇ / ᴛʜᴇʏ [ ʜᴇ ᴘʀᴇꜰ ]}}$
+ㅤ $\color{Yellow}\large{\textbf{ɴᴇᴇᴏ . ɪꜱᴀᴀᴄ . ɪᴄᴀʀᴜꜱ . ᴄᴀɴᴀʀʏ}}$ㅤ<img width="20" height="20" alt="COIN" src="https://github.com/user-attachments/assets/d2f6f8a5-3606-4ff2-a748-ceb2d73dd306" /> $\color{Yellow}\large{\textbf{ʜᴇ / ᴛʜᴇʏ [ ʜᴇ ᴘʀᴇꜰ ]}}$
         
        ㅤㅤ 🟢 − ɪᴅʟᴇ      🌙 − ᴀꜰᴋ      ⛔ − ᴏꜰꜰᴛᴀʙ / ʙᴜꜱʏ 
 
@@ -81,4 +81,4 @@
   </table>
 </div>
 
-<img width="1000" height="160" alt="image" src="https://github.com/user-attachments/assets/97bba985-c7c9-4e09-807e-424aa97fdf79" />
+<img width="1000" height="160" alt="BOTTOM" src="https://github.com/user-attachments/assets/97bba985-c7c9-4e09-807e-424aa97fdf79" />
