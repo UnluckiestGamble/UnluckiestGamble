@@ -9,7 +9,7 @@
     <img width="1199" height="333" alt="LOWKTEST" src="https://github.com/user-attachments/assets/c213d9c7-d8cd-472b-822a-fb6bb3837ffb" />
        <div style="border: 1px solid #30363d; border-radius: 6px; padding: 20px; background-color: #161b22;">
 
-ㅤ $\color{Yellow}\large{\textbf{ɴᴇᴇᴏ . ɪꜱᴀᴀᴄ . ɪᴄᴀʀᴜꜱ . ᴄᴀɴᴀʀʏ}}$ㅤ<img width="20" height="20" alt="COIN" src="https://github.com/user-attachments/assets/d2f6f8a5-3606-4ff2-a748-ceb2d73dd306" /> $\color{Yellow}\large{\textbf{ʜᴇ / ᴛʜᴇʏ [ ʜᴇ ᴘʀᴇꜰ ]}}$
+ㅤ $\color{Yellow}\large{\textbf{ɴᴇᴇᴏ . ɪꜱᴀᴀᴄ . ɪᴄᴀʀᴜꜱ . ᴄᴀɴᴀʀʏ}}$ㅤ<img width="20" height="20" alt="Coin" src="https://github.com/user-attachments/assets/1e3a62de-7a56-42de-816e-8923bf6338dc" /> $\color{Yellow}\large{\textbf{ʜᴇ / ᴛʜᴇʏ [ ʜᴇ ᴘʀᴇꜰ ]}}$
         
        ㅤㅤ 🟢 − ɪᴅʟᴇ      🌙 − ᴀꜰᴋ      ⛔ − ᴏꜰꜰᴛᴀʙ / ʙᴜꜱʏ 
 
